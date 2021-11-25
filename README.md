@@ -17,11 +17,12 @@ The Showcase Metaverse lets brands showcase their digital products inside a Meta
 ### 1) Interaction with avatar created via video: 
 
 As for social media content creation is the driver for attention retention and the Showcase Metaverse make it easy to create inmersive experiences. It is a video based an option that will inmediatly enable the development of new content.
+
 ![Image2](img/second.png?raw=true)
 
 ### 2) Wit.ai integration for video selection and 3D object focus
-
 Wit.ai is responsable of controlling the conversation. The Showcase Metaverse has an event manager that lets show the information based on Wit.ai responses.
+
 ![Image3](img/third.png?raw=true)
 
 ### 3) An easy to implement template
