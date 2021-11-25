@@ -1,4 +1,4 @@
-![Image](../master/img/first.png?raw=true)
+![Image1](img/first.png?raw=true)
 
 ## Note: 
 This project was developed using the Oculus Presence Platform with the Voice SDK. 
@@ -12,7 +12,7 @@ Content creation is the core tool for attention retention in digital sales. It i
 # OUR MAGIC SOLUTION
 The Showcase Metaverse lets brands showcase their digital products inside a Metaverse in a conversational immersive way. This Metaverse enables brands showcase their products and let users explore them through a conversation with a virtual expert. It can be used as a "sales room" for influencers who are recognized as experts over different fields.
 
-![Image](../master/img/second.png?raw=true)
-![Image](../master/img/third.png?raw=true)
-![Image](../master/img/fourth.png?raw=true)
-![Image](../master/img/fifth.png?raw=true)
+![Image2](img/second.png?raw=true)
+![Image3](img/third.png?raw=true)
+![Image4](img/fourth.png?raw=true)
+![Image5](img/fifth.png?raw=true)
